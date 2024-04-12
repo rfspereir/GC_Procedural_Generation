@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "M1_Voxel_RafaelF.sln"
+    "dotnet.defaultSolution": "GC_Procedural_Generation.sln"
 }

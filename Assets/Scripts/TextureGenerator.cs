@@ -1,16 +1,17 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public static class TextureGenerator
 {
-    public static Texture2D TextureFrom ColourMap(Color[] colourMap, int width, int height){
-        Texture2D texture = new Texture2D(width, height,);
+    public static Texture2D TextureFromColourMap(Color[] colourMap, int width, int height)
+    {
+        Texture2D texture = new Texture2D(width, height);
         texture.SetPixels(colourMap);
         texture.Apply();
         return texture;
     }
-    public static Texture2D TextureFromHeightMap(float[,], heightMap){
+
+    public static Texture2D TextureFromHeightMap(float[,] heightMap)
+    {
         int width = heightMap.GetLength(0);
         int height = heightMap.GetLength(1);
 
