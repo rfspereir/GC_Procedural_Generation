@@ -12,4 +12,4 @@ Projeto desenvolvido como trabalho M1 (Geração procedural e Voxel) para a disc
 O projeto consiste em um gerador de terreno com uso do unity. Com diversos ajustes possíveis.
 
 Foram utilizados os materiais de aula e o tutorial do youtube sobre geração procedural de terrenos referenciado pelo professor no Canvas (https://www.youtube.com/playlist?list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3).
-(https://github.com/SebLague/Procedural-Landmass-Generation/blob/master/LICENSE.md)
+[SebLague](https://github.com/SebLague/Procedural-Landmass-Generation)
