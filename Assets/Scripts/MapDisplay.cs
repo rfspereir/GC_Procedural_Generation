@@ -20,4 +20,9 @@ public class MapDisplay : MonoBehaviour
         meshFilter.sharedMesh = meshData.CreateMesh();
         meshRenderer.sharedMaterial.mainTexture = texture;
     }
+    public void ClearDisplay()
+    {
+        textureRender.sharedMaterial.mainTexture = null;
+        meshFilter.sharedMesh = null;
+    }
 }
