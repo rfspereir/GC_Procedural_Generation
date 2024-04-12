@@ -10,3 +10,5 @@
 Projeto desenvolvido como trabalho M1 (Geração procedural e Voxel) para a disciplina Computação Gráfica do curso de Engenharia de Computação da PUC-MG, ministrada pelo professor Roque Anderson Saldanha Teixeira.
 
 O projeto consiste em um gerador de terreno com uso do unity. Com diversos ajustes possíveis.
+
+Foram utilizados os materiais de aula e o tutorial referenciado pelo professor no Canvas (https://www.youtube.com/playlist?list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3).[https://github.com/SebLague/Procedural-Landmass-Generation/blob/master/LICENSE.md]
